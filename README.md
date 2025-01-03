@@ -26,6 +26,3 @@ Also TV Shows
 
 ![3](https://github.com/rushikesh121/MovieMate/assets/60637264/bb9a9d9e-11ca-4137-9d75-14c6c831792e)
 
-
-
-Link to the project = https://moviesugge.netlify.app/
